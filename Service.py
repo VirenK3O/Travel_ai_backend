@@ -10,7 +10,7 @@
 import json
 import openai
 
-API_KEY = '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'
+API_KEY = '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'
 openai.api_key = API_KEY
 
 model_id = 'gpt-3.5-turbo'
